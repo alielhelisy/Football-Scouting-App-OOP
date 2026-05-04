@@ -1,0 +1,19 @@
+﻿# Java build output
+*.class
+out/
+bin/
+build/
+target/
+
+# Local app data
+scouting_data.dat
+.scoutingapp_users.txt
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
