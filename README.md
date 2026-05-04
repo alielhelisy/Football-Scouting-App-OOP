@@ -91,3 +91,6 @@ These files are generated while the application runs and should usually not be c
 ## Project Type
 
 University Object Oriented Programming project built with Java and Swing.
+## Author
+
+Ali Elhelisy
